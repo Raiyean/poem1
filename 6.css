@@ -96,7 +96,7 @@ a{
     
 }
 .v{
-    filter: blur(2px);
+    filter: blur(3px);
     position: absolute;
     right: 0;
     bottom: 0;
